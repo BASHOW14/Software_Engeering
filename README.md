@@ -1,2 +1,2 @@
 # PROJECT
-Entrepreneurship Training Information Management System 
+Entrepreneurship Training Information Management System
